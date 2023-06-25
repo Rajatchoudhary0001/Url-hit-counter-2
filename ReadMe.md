@@ -32,6 +32,6 @@ $ git add .
 <br>
 $ git commit -m "Rajat_Commit"
 <br>
-$ git remote add origin ""
+$ git remote add origin "https://github.com/Rajatchoudhary0001/Url-hit-counter-2.git"
 <br>
 $ git push -u origin master
